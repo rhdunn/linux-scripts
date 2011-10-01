@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# Copyright (C) Reece H. Dunn
+# Copyright (C) 2011 Reece H. Dunn
 # License: LGPLv3+
 #
 # Helper script to prevent the screen going black after 10 min while watching a video in Gnome 3.
